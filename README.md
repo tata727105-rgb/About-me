@@ -32,13 +32,12 @@ with a strong focus on <b>security</b>, <b>automation</b>, and <b>system archite
 
 ---
 
-### 🛠️ Security & Engineering Tooling
+### 🛠️ Security & Engineering Tooling(Red Team)
 - Network & application security analysis
+- Web Security
 - Vulnerability assessment & secure coding practices
 - Tools:  
   **Burp Suite, Nmap, Wireshark, Metasploit, OWASP ZAP, SQLMap, Netcat**
-
-> ⚠️ Focused on **ethical security research and defensive techniques only**
 
 ---
 
