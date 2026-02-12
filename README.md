@@ -1,9 +1,6 @@
 # About-me
 <h1 align="center">Hi 👋, I'm Mouhamed</h1>
 <h3 align="center">A passionate Fullstack Developper</h3>
-
-- 🌱 I’m currently learning **Cybersecurity**
-
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **ma.buisness912@gmail.com*
